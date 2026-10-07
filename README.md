@@ -33,8 +33,4 @@ Original music composed for the Indie Game Music Contest Fall 2024, with musical
 
 ## Other work
 
-See my [QA Portfolio on GitHub](https://github.com/n7wx9m44q9-create/QA-Portfolio) for software testing, localization QA, and audio QA projects.
-
-## Website
-
-The portfolio website is `index.html`. To publish it with GitHub Pages, open **Settings → Pages**, select **Deploy from a branch**, choose `main` and `/(root)`, then save.
+See my [QA Portfolio on GitHub](https://github.com/n7wx9m44q9-create/QA-Portfolio) for software testing, Localization QA, and more QA projects.
