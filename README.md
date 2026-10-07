@@ -13,9 +13,11 @@ Composer and performing musician from Mexico. This portfolio brings together ori
 
 Original music composed for the Indie Film Music Contest W2021.
 
-- **Elengard: Interactive game-music concept** — Indie Game Music Contest F24 (2024), with musical states for exploration, tavern, night, and combat.
-  [![Watch on YouTube](https://img.youtube.com/vi/Yk21Z5pWDHg/maxresdefault.jpg)]([https://www.youtube.com/watch?v=Yk21Z5pWDHg](https://www.youtube.com/watch?v=QIRdpgi_25Y)) 
-- **Call of Duty Origins Zombies Intro** — Practical music-for-film course assignment (2021).
+- ### Elengard - IGMC F2024
+  
+  [![Watch on YouTube](https://img.youtube.com/vi/Yk21Z5pWDHg/maxresdefault.jpg)]([https://www.youtube.com/watch?v=Yk21Z5pWDHg](https://www.youtube.com/watch?v=QIRdpgi_25Y))
+  
+Original music composed for the Indie Game Music Contest Fall 2024, with musical states for exploration, tavern, and combat.
 
 ## Performance
 
