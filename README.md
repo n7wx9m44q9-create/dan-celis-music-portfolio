@@ -6,20 +6,24 @@ Composer and performing musician from Mexico. This portfolio brings together ori
 ## Selected work
 
 - **Suite Mítica No. 2** — A four-movement composition inspired by fantasy, myths, and legends of Mexico. [Listen on SoundCloud](https://soundcloud.com/dan-celis/suite-mitica-no2).
-- **Next Flight Home** — Original music for the Indie Film Music Contest W2021. 
-[![Watch on YouTube](https://img.youtube.com/vi/Yk21Z5pWDHg/maxresdefault.jpg)](https://www.youtube.com/watch?v=Yk21Z5pWDHg)
+  
+- ### Next Flight Home — IFMC W2021
+
+[![Watch on YouTube](https://img.youtube.com/vi/QIRdpgi_25Y/maxresdefault.jpg)](https://www.youtube.com/watch?v=QIRdpgi_25Y)
 
 Original music composed for the Indie Film Music Contest W2021.
-- **Interactive game-music concept** — Indie Game Music Contest F24 (2024), with musical states for exploration, tavern, night, and combat.
+
+- **Elengard: Interactive game-music concept** — Indie Game Music Contest F24 (2024), with musical states for exploration, tavern, night, and combat.
+  [![Watch on YouTube](https://img.youtube.com/vi/Yk21Z5pWDHg/maxresdefault.jpg)]([https://www.youtube.com/watch?v=Yk21Z5pWDHg](https://www.youtube.com/watch?v=QIRdpgi_25Y)) 
 - **Call of Duty Origins Zombies Intro** — Practical music-for-film course assignment (2021).
 
 ## Performance
 
-[“El final” — The Skarada Band](https://www.youtube.com/watch?v=Ao5mG1R-i0w). Dan Celis plays flute and tenor saxophone in this performance; the alto saxophone solo is played by another band member.
+[“El final” — The Skarada Band](https://www.youtube.com/watch?v=Ao5mG1R-i0w). Dan Celis plays flute and tenor saxophone in this performance, Note; the alto saxophone solo is played by another band collaborator.
 
 ## Musical education
 
-- BA, Music Composition - EMEH
+- BA, Music Composition - EMEH; Escuela de Musica del Estado de Hidalgo
 - Diploma in Musical Composition for Film, TV & Games — CEMUCVER, 2022 (112 hours)
 - “De Zero a PRO” — Music for Film — VoxGarten + MusicLab / Arcella Sound, 2021
 - Diploma in Musical Arranging — EMEH, 2020
